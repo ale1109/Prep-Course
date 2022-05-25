@@ -1,0 +1,5 @@
+body {background: grey;}
+.divClass h1 {color:brown}
+#thirdDiv ul li img {width: 400px;}
+#thirdDiv {width: 500px; height: 600px;background: yellowgreen;padding: 50px;border: 10px solid red;}
+#spanId{font-size: 30px;margin: 50px;} 
